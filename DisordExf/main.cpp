@@ -193,7 +193,7 @@ void uploadToDiscord() {
     HINTERNET hRequest = WinHttpOpenRequest(
         hConnect,
         L"POST",
-        L"api/webhooks/1352839646186311800/HmHPkWEaMHfC1VH8KxLJ7KxtKfcvXDegr4zApuHM8yJz3gwW9JAKHdLzgZTZY6Okp6aF",
+        L"api/webhooks/<Your_Web_Hook>",
         NULL,
         WINHTTP_NO_REFERER,
         WINHTTP_DEFAULT_ACCEPT_TYPES,
